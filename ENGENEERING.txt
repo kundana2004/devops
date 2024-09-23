@@ -1,0 +1,16 @@
+SUBJECTS OF BTECH 1ST YEAR
+1.EG
+2.ES
+3.EC
+4.M AND C
+5.BEE
+6.PPS
+7.ECSE
+BOOKS FOR ENGENEERING 1ST YEAR
+EG- Engeneering drawing by nd bhatt
+ES-erach braucha,r.rajagopalan,kaushik and kaushik
+BEE-Ashfaq Hussain,kulsresta,p ramana m suryakalavathi(for 5th unit)
+M AND C-
+EC-PC jain and sk jain,shika agarwal
+PPS-
+ECSE-ecse s.sagayaraj,intiation of computer science by g.michael schneider
